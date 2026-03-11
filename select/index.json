@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "紙飛行機",
+  "base_artist": "Dios",
+  "createdAt": "2026-03-11T23:13:56.991960Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "紙飛行機",
+      "artist": "Kobukuro",
+      "has_synced": true,
+      "path": "select/01_紙飛行機_Kobukuro.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "紙飛行機",
+      "artist": "コブクロ",
+      "has_synced": true,
+      "path": "select/02_紙飛行機_コブクロ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "紙飛行機",
+      "artist": "コブクロ",
+      "has_synced": false,
+      "path": "select/03_紙飛行機_コブクロ.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "紙飛行機",
+      "artist": "sakigake-miyako",
+      "has_synced": true,
+      "path": "select/04_紙飛行機_sakigake-miyako.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "紙飛行機",
+      "artist": "ELISA",
+      "has_synced": false,
+      "path": "select/05_紙飛行機_ELISA.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "紙飛行機",
+      "artist": "doriko feat.初音ミク",
+      "has_synced": false,
+      "path": "select/06_紙飛行機_doriko_feat.初音ミク.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "紙飛行機",
+      "artist": "doriko",
+      "has_synced": false,
+      "path": "select/07_紙飛行機_doriko.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "紙飛行機 - Remastered 2018",
+      "artist": "Yosui Inoue",
+      "has_synced": true,
+      "path": "select/08_紙飛行機_-_Remastered_2018_Yosui_Inoue.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "紙飛行機",
+      "artist": "doriko Feat. 初音ミク",
+      "has_synced": false,
+      "path": "select/09_紙飛行機_doriko_Feat._初音ミク.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "紙飛行機",
+      "artist": "Dios",
+      "has_synced": false,
+      "path": "select/pl_01_紙飛行機_Dios.txt"
+    }
+  ]
+}
